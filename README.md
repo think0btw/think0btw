@@ -12,4 +12,5 @@ Bash lover and GNU/Linux enthusiast 🐞
 
 🌱 **Always learning, always curious.**
 > More projects coming soon…
+
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/think0btw.png)
