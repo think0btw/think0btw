@@ -13,4 +13,4 @@ Bash lover and GNU/Linux enthusiast 🐞
 🌱 **Always learning, always curious.**
 > More projects coming soon…
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/think0btw.png" alt="Your Image Badge" />
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2768391" />
