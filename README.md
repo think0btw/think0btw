@@ -12,3 +12,5 @@ Bash lover and GNU/Linux enthusiast 🐞
 
 🌱 **Always learning, always curious.**
 > More projects coming soon…
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2768391" style='border:none;'></iframe>
