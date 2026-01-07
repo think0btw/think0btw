@@ -15,5 +15,5 @@ Bash lover and GNU/Linux enthusiast 🐞
 
 ## my Tryhackme🐧
 
-![Think0btw Badge](https://tryhackme-badges.s3.amazonaws.com/think0btw.png)
+![Think0btw Badge](https://tryhackme-badges.s3.amazonaws.com/think0btw.png)(https://tryhackme.com/p/think0btw)
 
