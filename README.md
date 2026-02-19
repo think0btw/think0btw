@@ -21,11 +21,12 @@ Bash lover and GNU/Linux enthusiast 🐞
 <table>
   <tr>
     <td>
-      **No photo for opsec 🥀 Never mind, it's definitely me!**<br>
+      No picture for opsec 🥀 Never mind, it's definitely me!<br>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/d8b5eba5-5c4d-4c13-bf9b-425e171d4aa4" width="150" />
     </td>
   </tr>
 </table>
+<img width="200" height="300" alt="over" src="https://github.com/user-attachments/assets/9876265c-8b5e-4ad8-bd0c-3e22e5412c58" />
 
