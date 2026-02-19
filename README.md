@@ -21,7 +21,7 @@ Bash lover and GNU/Linux enthusiast 🐞
 <table>
   <tr>
     <td>
-      zezfzfzf
+      **No photo for opsec 🥀 Never mind, it's definitely me!**<br>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/d8b5eba5-5c4d-4c13-bf9b-425e171d4aa4" width="150" />
