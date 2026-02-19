@@ -17,9 +17,15 @@ Bash lover and GNU/Linux enthusiast 🐞
 
 [![Think0btw Badge](https://tryhackme-badges.s3.amazonaws.com/think0btw.png)](https://tryhackme.com/p/think0btw)
 
-![arch](https://github.com/user-attachments/assets/d8b5eba5-5c4d-4c13-bf9b-425e171d4aa4)
 
-<img width="600" height="800" alt="over" src="https://github.com/user-attachments/assets/6cecbb51-2926-470f-9185-815f7562784f" />
-
-
+<table>
+  <tr>
+    <td>
+      zezfzfzf
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d8b5eba5-5c4d-4c13-bf9b-425e171d4aa4" width="150" />
+    </td>
+  </tr>
+</table>
 
