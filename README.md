@@ -28,5 +28,4 @@ Bash lover and GNU/Linux enthusiast 🐞
     </td>
   </tr>
 </table>
-<img width="200" height="300" alt="over" src="https://github.com/user-attachments/assets/9876265c-8b5e-4ad8-bd0c-3e22e5412c58" />
 
